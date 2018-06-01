@@ -1,4 +1,4 @@
-let studentScore = 18;
+let studentScore = 20;
 var maxScore = 25;
 let studentScorePercent;
 
